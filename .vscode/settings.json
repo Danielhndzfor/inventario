@@ -1,0 +1,8 @@
+{
+    "editor.rulers": [80, 120],
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.eol": "\n",
+    "files.insertFinalNewline": true,
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
